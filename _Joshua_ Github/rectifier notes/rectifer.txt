@@ -1,0 +1,11 @@
+120 ac to 9 ac
+Full wave bridge Rectifier
+
+
+C = I * t / V
+
+  = 2 * ((1/120) * 1000) / (13.051 - 1.4 -7 ) 
+
+  = 2 * 8.3ms / 4.65
+
+  = 3569 microfarad capacitor
