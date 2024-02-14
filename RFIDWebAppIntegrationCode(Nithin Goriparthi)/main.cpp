@@ -22,14 +22,14 @@
 #define WIFI_PASSWORD "<enter password>"
 
 // Firebase project API Key
-#define API_KEY "AIzaSyATVSl0L8kOLP_m48mATfcq_72-FqtxrQo"
+#define API_KEY "<enter API Key>"
 
 // Firebase Realtime Database URL */
 #define FIREBASE_HOST "https://rfiddoorlock-e0d8c-default-rtdb.firebaseio.com/"
 
 // Firebase user credentials
-#define USER_EMAIL "ngoriparthi08@gmail.com"
-#define USER_PASSWORD "Saturn38"
+#define USER_EMAIL "<enter email>"
+#define USER_PASSWORD "<enter password>"
 
 // Firebase objects for data and authentication
 FirebaseData fbdo;
