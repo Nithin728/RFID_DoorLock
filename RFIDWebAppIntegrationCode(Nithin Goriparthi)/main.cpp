@@ -18,8 +18,8 @@
 
 
 // WiFi credentials
-#define WIFI_SSID "GatewayAtCollegeStation_SS"
-#define WIFI_PASSWORD "Gofuckyourself!"
+#define WIFI_SSID "<enter WIFI>"
+#define WIFI_PASSWORD "<enter password>"
 
 // Firebase project API Key
 #define API_KEY "AIzaSyATVSl0L8kOLP_m48mATfcq_72-FqtxrQo"
